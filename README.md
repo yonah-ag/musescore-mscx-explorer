@@ -1,2 +1,2 @@
 # musescore-mscx-explorer
-A plugout for exploring MuseScore MSCX files
+An Excel based plugout for exploring MuseScore MSCX files
