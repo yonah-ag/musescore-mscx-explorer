@@ -5,4 +5,8 @@ An Excel based plugout for exploring and processing MuseScore MSCX files
 02 Apr 2022 | v2.4.3 | Let Ring : Disable for note duration greater than crotchet
 </pre>
 
-![00](https://github.com/yonah-ag/musescore-mscx-explorer/blob/main/images/MuseFx01.png)
+![01](https://github.com/yonah-ag/musescore-mscx-explorer/blob/main/images/MuseFx01.png)
+
+![02](https://github.com/yonah-ag/musescore-mscx-explorer/blob/main/images/MuseFx02.png)
+
+![03](https://github.com/yonah-ag/musescore-mscx-explorer/blob/main/images/MuseFx03.png)
