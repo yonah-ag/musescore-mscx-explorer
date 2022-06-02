@@ -10,6 +10,11 @@ An Excel based plugout for exploring and processing MuseScore MSCX files
 
 ![01](https://github.com/yonah-ag/musescore-mscx-explorer/blob/main/images/MuseFx01.png)
 
-![02](https://github.com/yonah-ag/musescore-mscx-explorer/blob/main/images/MuseFx02.png)
+#### Copy Measures (v2.4.6)
+![02](https://github.com/yonah-ag/musescore-mscx-explorer/blob/main/images/MuseFx04.png)
 
-![03](https://github.com/yonah-ag/musescore-mscx-explorer/blob/main/images/MuseFx05.png)
+#### Guide
+![03](https://github.com/yonah-ag/musescore-mscx-explorer/blob/main/images/MuseFx02.png)
+
+#### Let Ring Plugout
+![04](https://github.com/yonah-ag/musescore-mscx-explorer/blob/main/images/MuseFx05.png)
