@@ -12,4 +12,4 @@ An Excel based plugout for exploring and processing MuseScore MSCX files
 
 ![02](https://github.com/yonah-ag/musescore-mscx-explorer/blob/main/images/MuseFx02.png)
 
-![03](https://github.com/yonah-ag/musescore-mscx-explorer/blob/main/images/MuseFx03.png)
+![03](https://github.com/yonah-ag/musescore-mscx-explorer/blob/main/images/MuseFx05.png)
